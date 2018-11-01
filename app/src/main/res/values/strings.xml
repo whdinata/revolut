@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Revolut Exchange Rate</string>
+
+    <string name="error">Ooppss, there is a problem!</string>
+</resources>

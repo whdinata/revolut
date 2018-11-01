@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#1f9cdb</color>
+    <color name="colorAccent">#1f9cdb</color>
+
+    <color name="wildSand">#f5f5f5</color>
+    <color name="osloGray">#858c93</color>
+</resources>

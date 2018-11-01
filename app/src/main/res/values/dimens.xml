@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_big">32dp</dimen>
+    <dimen name="margin_default">16dp</dimen>
+    <dimen name="margin_half">8dp</dimen>
+
+    <dimen name="currency_flag_size">40dp</dimen>
+
+    <dimen name="currency_item_padding">8dp</dimen>
+</resources>
